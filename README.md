@@ -12,7 +12,7 @@ I'm a passionate developer and QA who loves create and build solutions. Currentl
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,php,idea-light,spring,vscode,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,php,idea,spring,vscode,postman,github&perline=8" />
   </a>
 </p>
 
