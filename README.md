@@ -5,14 +5,14 @@ This is a small portfolio of samples of what I can do regarding Qa Automation.
 
 **`Functional & Automation QA`**
 
-I'm a passionate developer and QA who loves create and build solutions. Currently working as a QA with React, Selenium, Jiram Insomnia/Postmanm, Karate also working with AI.
+I'm a passionate developer and QA who loves create and build solutions. Currently working QA and automation tools such as Java, Selenium, Jira, Insomnia/Postman, Karate also working with some basic AI tools.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,php,intellij,springboot,vscode,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,php,ij,spring-boot,vscode,postman&perline=8" />
   </a>
 </p>
 
