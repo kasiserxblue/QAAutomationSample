@@ -12,7 +12,7 @@ I'm a passionate developer and QA who loves create and build solutions. Currentl
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,php,idea,spring,vscode,postman,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,selenium,mysql,android,php,idea,spring,vscode,postman,github&perline=8" />
   </a>
 </p>
 
@@ -20,14 +20,12 @@ I'm a passionate developer and QA who loves create and build solutions. Currentl
 ### 📌 Pinned Projects
 Here are some of the samples of what I can do:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=dark" />
+<img align="left" src="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git&repo=your-best-repo&theme=dark" />
 
 (You can pin up to 6 repos automatically – see Step 4)
 
-### 📫 Connect with me
+### 📫 Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/otto-navas-989421a3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>  
   <a href="mailto:kaiserxblue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
-⚡ Fun fact: I once debugged code in my sleep... and it worked when I woke up!
