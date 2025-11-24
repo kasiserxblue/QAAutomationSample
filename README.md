@@ -12,7 +12,7 @@ I'm a passionate developer who loves building things that make a difference. Cur
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,selenium,mysql,php,java,postman&perline=8" />
   </a>
 </p>
 
