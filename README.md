@@ -21,8 +21,9 @@ I'm a passionate developer and QA who loves create and build solutions. Currentl
 Here are some of the samples of what I can do:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=dark" />
+<a href="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git"> Karate API testing </a>
 
-(You can pin up to 6 repos automatically – see Step 4)
+
 
 ### 📫 Contact me
 <p align="left">
