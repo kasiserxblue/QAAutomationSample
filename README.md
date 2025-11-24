@@ -20,10 +20,11 @@ I'm a passionate developer and QA who loves create and build solutions. Currentl
 ### 📌 Pinned Projects
 Here are some of the samples of what I can do:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=dark" />
-<a href="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git"> Karate API testing </a>
-
-
+<div style="background-color: #302A2A;">
+<li>
+  <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git"><B>  Karate API testing </B></a></ul>
+</li>
+</div>
 
 ### 📫 Contact me
 <p align="left">
