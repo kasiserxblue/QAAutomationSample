@@ -24,6 +24,7 @@ Here are some of the samples of what I can do:
   <li>    
     <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git"><B>  Karate API testing </B></a></ul>
     <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://github.com/kasiserxblue/SauceDemo.git"><B> Selenium SauceDemo (happy path)</B></a></ul>    
+    <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://github.com/kasiserxblue/SeleniumPianoDemo.git"><B> Selenium PlayPiano</B></a></ul>
   </li>
 </div>
 
