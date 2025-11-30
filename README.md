@@ -23,7 +23,7 @@ Here are some of the samples of what I can do:
 <div style="background-color: #302A2A;">
   <li>
     <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://github.com/kasiserxblue/DemoBlazeKarateAPI.git"><B>  Karate API testing </B></a></ul>
-    <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://https://github.com/kasiserxblue/SauceDemo.git"><B>  Selenium Java SauceDemo (happy path)</B></a></ul>    
+    <ul><a style="color: #FAFAFA; text-decoration: none;" href="https://https://github.com/kasiserxblue/SauceDemo.git"><B>  Selenium Java SauceDemo (happy path)</B></a></ul>
   </li>
 </div>
 
